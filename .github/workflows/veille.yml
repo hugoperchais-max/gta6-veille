@@ -1,0 +1,46 @@
+name: Veille GTA 6
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # veille toutes les ~10 min (GitHub peut décaler de quelques minutes)
+    - cron: "0 18 * * *"     # brief du soir à 20h Paris (18h UTC en été)
+  workflow_dispatch:
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Veille ou brief selon l'horaire
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ "${{ github.event.schedule }}" = "0 18 * * *" ]; then
+            python veille.py --brief
+          else
+            python veille.py
+          fi
+
+      - name: Sauvegarder l'état de déduplication
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "actions@github.com"
+          git add seen.json
+          git diff --cached --quiet || git commit -m "chore: maj seen.json [skip ci]"
+          git push
