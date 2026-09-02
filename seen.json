@@ -1,4 +1,32 @@
 {
+ "c065139fdc8f1cab": {
+  "title": "Netflix says GTA 6: An Extended Look got 31.1 million views and topped its charts in nearly every country",
+  "link": "https://www.videogameschronicle.com/news/netflix-says-gta-6-an-extended-look-got-31-1-million-views-and-topped-its-charts-in-nearly-every-country/",
+  "source": "VGC",
+  "weight": 1,
+  "ts": 1788347094.0
+ },
+ "fe9d9ca96ddcd9fe": {
+  "title": "Le trailer de GTA 6 devient le programme le plus regardé de la semaine sur Netflix - Frandroid",
+  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaXFkQndvd0NpV1BlNGQ4aXJGak5DSEgzczdQcFU1UUFuT3ZuUHBhYmZyT3NNNkVfaWV2bG5aMFRyX2JVMllYbmJPblhmcFNGeXl5czlIOXFzcndfWDg4SUM4SWxOMWMyZ25rY2l0eXRTbWFabnZreC02TkZuc2ZiYkQ4eldfV3NEUU9Nd0g1Y1Rrc1V0d19xVzg1MnZoQmFmZ2lweDNWdTViRk1uY1hIX2w2V3N0dnhFd2lMNnBiTmlPbFozUnhpX3IzeGQzUV9EOUZMMWVpQ3I2ZmxjcmV4bU9pTFMzVHdlNlg5anN0NzRpTDFBdU9DdjBB?oc=5",
+  "source": "Google News FR",
+  "weight": 1,
+  "ts": 1788345248.0
+ },
+ "d02f2989ef7d0091": {
+  "title": "GTA 6 : quelle sera la difficulté du trophée Platine ? Rockstar donne une réponse aux chasseurs de trophées - Gameblog",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fM3VrcWc0c0VQMlF4cHpOVllXb0RrRU1IZnBMTEtPMlZBSDJ4ZjZJX1VBeVpHSmhXcUEyLWFKYVJ0alVnemx6bmRpaGNBY3o0alMtQmpRX0JrVERoNTVVeHhkeld1eVdTSHM1OEpNMW5vSU5JNXJxdUJYQjFaVDA?oc=5",
+  "source": "Google News FR",
+  "weight": 1,
+  "ts": 1788340885.0
+ },
+ "7bff19d14eac0823": {
+  "title": "Preview du Ananta : Ce n’est pas le rival de GTA 6, c’est plus que ça ! Nos impressions après avoir joué 1 heure sur PC - JeuxVideo.com",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTmhRd0JIQmNEWTV0M2ZBM05PWmN4ckwxa0x0dEtXWGxTeVc1amF4STdYR2dwRkxWMmFjTzJFelUyc1BsbTZ3T09zT3F4RDZMNEszYkJGMFVzN216Wmc5ZGthdjU0TGp4UmNKcnFjQ0I5UlJfdVA1LWVYMVJSWERLTzVvU3hWQ0lYNjZyZTZCZ1FmUXJlUFdfWnBPM0YwcjB3VEFWX2RNd1k4aU9uR0JtN2ZFVml2Z05NM0NLRW9uM0syeUJZa211anl6UzhBYmV2YlhfTW5Qb0FWbkY4a0d1dmQ5QQ?oc=5",
+  "source": "Google News FR",
+  "weight": 1,
+  "ts": 1788338520.0
+ },
  "1e6b2590045d8e61": {
   "title": "GTA 6 Preview Details New Lock On Aiming, Weapon Carry Limits and L3 Sprinting",
   "link": "https://www.gtaboom.com/gta-6-drops-default-lock-on-limits-guns-sprint-l3-204b",
@@ -20,12 +48,26 @@
   "weight": 1,
   "ts": 1788336968.0
  },
+ "80e7a0289213591d": {
+  "title": "GTA 6 : la précommande du jeu le plus attendu est-elle encore disponible au meilleur prix sur Amazon ? - BFM",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa3d5My1leE1pUEdQQTl4bEFMY09ZX0tVdHdFXzRYOG9FVzIyMjhvZ2dZXzgteXY3UV9wbE55ZDRuUUpTV3Z0T3lZMXQ3bUp1X01tOHZWNTRxYXBDdjBFM0xaZEJvaGFBLWp3SGtDQ2VwVTBSZ3EzZlM5SGxmRUF3ZWFpZFl3N3dYSk5wR0YybGVSRVFBX19qNnlDZnJYNy1TV3FnX2MzMm52NW1wSmF3SnF4SXhMM01NWWNwaEowVVdKSjhMaDJsZHRncFcxZDVSTzM3cnZFQU5ZalExeGtNc0RvMXUyWjZpWTdxeWR3?oc=5",
+  "source": "Google News FR",
+  "weight": 1,
+  "ts": 1788334800.0
+ },
  "ff8c8c1ca6668567": {
   "title": "GTA 6 : la justice autorise la nouvelle assignation de Take-Two contre Discord - GinjFo",
   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQmpSX1EwQ1FYdFZTZXZ5b2dORFhUZFd2ZnZuNlhXNERQdHVWdGxTcktXYW9yaDl0MHpzR3ExSGlNX0tXT201SEV6ZTlJTVB2M3p1YjBUM0V4QUFoTjUxUEpDdUhjYzdzSm1Yc2lzcGgycFZiRE5FZDdrX0MzNzVyT2RzZVppVm55c3EtbFhxVXlzM1htMU1wUFowUjZXdkNtZF9IUl8xM3RkVVVXMGpFQThNdmdtUUxwVm54Wi1idVJCb1FfeXpyZFFqcWJrOFJONXlOQ1NqR0tEb1ZKMDl2bWxVS0w?oc=5",
   "source": "Google News FR",
   "weight": 1,
   "ts": 1788334615.0
+ },
+ "e1b62fc54dfb7e7c": {
+  "title": "GTA 6 : une fausse version leakée peut vider votre portefeuille crypto - GinjFo",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON05WcFY4NDFpeFRnWHAxczVoVElxaFNVb2tzMnhnQ2NXbG5PTWVPMEh3ZjYxOWJmaEZGbzN5M0dKX3FZc1lVODljNGNNSVFBaEJDZVFESk11Q29qVGNpTGdQbGt1SEFaNHdXOVFNZ1loWHJHamJJY1c3OTl1RVFQU0dxMVBueV9EaHp1QnlRUVJDcUxpSUlBbEU1dkVoVXdiVlFycWlEU2lRRGMzUE54UE15MkJpcE5fd1lVNjhGOW84Njc4WS1NNnhrWTBCeE5SYWVRNEZNWjlEdw?oc=5",
+  "source": "Google News FR",
+  "weight": 1,
+  "ts": 1788333411.0
  },
  "05ea0b9b480fcdc7": {
   "title": "GTA 6 : carton plein sur Netflix pour l'Extended Look - BlogNT",
@@ -41,6 +83,13 @@
   "weight": 1,
   "ts": 1788332880.0
  },
+ "b01f6b140d5bb2f8": {
+  "title": "GTA 6 ne vous laissera pas passer de Jason à Lucia quand vous voulez, Rockstar détaille la mécanique - BuzzArena",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTHd3WFY2UHozajA3Vy1wZWsza2pSRUozeGRSQkk2R0RoUHRtVXlDb1o3OTAtN21vWXZtNzBIaTlaVVc1X2NxdE1QUVFxRGhCeUhyY2I3akVvc3NjQ1d4TGZsXzVNTFJXdmhMUGR1NHpxd18yNFVZY0pHUjkycHZmOTY3cmdKY3Vzb3lZNEVpMnFGTlgyZDVLczBUbl9pX2w4SGhueVdFczR1MjV3b2c2Zi1CWXJjZHA4WEdIVjNzRGhoaVpWWDNXa0tNZE5EZw?oc=5",
+  "source": "Google News FR",
+  "weight": 1,
+  "ts": 1788332400.0
+ },
  "a9a523b17f7d56eb": {
   "title": "GTA 6 : tout savoir (date, prix, carte, gameplay) 2026 - BlogNT",
   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wV1dwOWM1NUVwSHF5TzFtMDZvaVlSYmtHNFRfSl81NDBHSmZRRGZ5bm5kci1XSEwtWFJpTFdBaG1mVHh3VHBCMFhtenc1U1ZDd05oaTdpLUlRcDJYMW1yaEo0OFRacC1zSFNpcFdDWWNwR2NWVEt3?oc=5",
@@ -54,6 +103,13 @@
   "source": "Google News FR",
   "weight": 1,
   "ts": 1788331800.0
+ },
+ "9da3add7e483d3ec": {
+  "title": "GTA 6 a dépassé les 30 millions de vues sur Netflix - Numerama",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRVM5d29UT3lQcVpJbEhtVHh5bDN6aXV5Rll6VVJ6MU96MDY2cDd4Vko1QVhMU0NNSlR2NGZXUERQOWNZZ043SVZTcFdoakpkdFljTThHUEV5dGU4Zk8wRGxFQy1CcE5TblAxMWVhOVlnQlRQeE9na2g4aHFmZ203YndaQW1sOHNaLXQwLTZUcFlNZk1ENGNzUHExMllDdW9pdk9Z?oc=5",
+  "source": "Google News FR",
+  "weight": 1,
+  "ts": 1788329020.0
  },
  "b463fa08cffdc67f": {
   "title": "GTA 5 | Toutes les infos (et le trailer) sur le lancement de NoPixel V, l’expérience RP officielle de Rockstar Games",
